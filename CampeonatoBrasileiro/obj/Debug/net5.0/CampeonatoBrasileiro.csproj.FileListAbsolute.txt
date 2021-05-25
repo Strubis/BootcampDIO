@@ -1,0 +1,16 @@
+C:\Users\Emerson\Desktop\BCC\Projeto01BC\CampeonatoBrasileiro\obj\Debug\net5.0\CampeonatoBrasileiro.csprojAssemblyReference.cache
+C:\Users\Emerson\Desktop\BCC\Projeto01BC\CampeonatoBrasileiro\obj\Debug\net5.0\CampeonatoBrasileiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson\Desktop\BCC\Projeto01BC\CampeonatoBrasileiro\obj\Debug\net5.0\CampeonatoBrasileiro.AssemblyInfoInputs.cache
+C:\Users\Emerson\Desktop\BCC\Projeto01BC\CampeonatoBrasileiro\obj\Debug\net5.0\CampeonatoBrasileiro.AssemblyInfo.cs
+C:\Users\Emerson\Desktop\BCC\Projeto01BC\CampeonatoBrasileiro\obj\Debug\net5.0\CampeonatoBrasileiro.csproj.CoreCompileInputs.cache
+C:\Users\Emerson\Desktop\BCC\Projeto01BC\CampeonatoBrasileiro\bin\Debug\net5.0\CampeonatoBrasileiro.exe
+C:\Users\Emerson\Desktop\BCC\Projeto01BC\CampeonatoBrasileiro\bin\Debug\net5.0\CampeonatoBrasileiro.deps.json
+C:\Users\Emerson\Desktop\BCC\Projeto01BC\CampeonatoBrasileiro\bin\Debug\net5.0\CampeonatoBrasileiro.runtimeconfig.json
+C:\Users\Emerson\Desktop\BCC\Projeto01BC\CampeonatoBrasileiro\bin\Debug\net5.0\CampeonatoBrasileiro.runtimeconfig.dev.json
+C:\Users\Emerson\Desktop\BCC\Projeto01BC\CampeonatoBrasileiro\bin\Debug\net5.0\CampeonatoBrasileiro.dll
+C:\Users\Emerson\Desktop\BCC\Projeto01BC\CampeonatoBrasileiro\bin\Debug\net5.0\ref\CampeonatoBrasileiro.dll
+C:\Users\Emerson\Desktop\BCC\Projeto01BC\CampeonatoBrasileiro\bin\Debug\net5.0\CampeonatoBrasileiro.pdb
+C:\Users\Emerson\Desktop\BCC\Projeto01BC\CampeonatoBrasileiro\obj\Debug\net5.0\CampeonatoBrasileiro.dll
+C:\Users\Emerson\Desktop\BCC\Projeto01BC\CampeonatoBrasileiro\obj\Debug\net5.0\ref\CampeonatoBrasileiro.dll
+C:\Users\Emerson\Desktop\BCC\Projeto01BC\CampeonatoBrasileiro\obj\Debug\net5.0\CampeonatoBrasileiro.pdb
+C:\Users\Emerson\Desktop\BCC\Projeto01BC\CampeonatoBrasileiro\obj\Debug\net5.0\CampeonatoBrasileiro.genruntimeconfig.cache
