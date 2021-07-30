@@ -1,10 +1,9 @@
-package com.desenvolvimento.basico;
-
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
 /**
+ * Um exemplo simples com manipulação de Datas.
  *
  * @author Emerson
  */
