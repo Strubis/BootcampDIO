@@ -25,5 +25,15 @@ public class DateUse {
         
         String formatDate = formatter.format( date );
         System.out.println( "\nData: " + formatDate );
+        
+        
+        // Exemplo utilizando LocalDateTime (LocalDate junto com LocalTime)
+        LocalDateTime localDate = LocalDateTime.now();
+        
+        System.out.println( "\nLocalDateTime: " + localDate );
+        localDate = localDate.plusYears( 4 );
+        localDate = localDate.plusMonths( 6 );
+        localDate = localDate.plusHours( 13 );
+        System.out.println( "New LocalDateTime: " + localDate );
     }
 }
